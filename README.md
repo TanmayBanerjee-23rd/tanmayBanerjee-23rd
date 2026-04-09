@@ -4,11 +4,11 @@ You got logged at github@TanmayBanerjee-profile!
 
 A seasoned software development engineer specializing in Web Development.
 
-root@tanmay:~# compgen -a | tr '\n' '|'
+root@tanmay:~# compgen -a | tr '\n' '|' \
 node | npm | pnpm | yarn | tsc | nest | create-react-app | next | mongosh | mysql | psql | cypher-shell | aws
 
-root@tanmay:~# ps -eo comm --no-headers
-[building-the-future-of-autonomous-flight-drone-mission-control-system](https://www.youtube.com/watch?v=VJrQBGpvz5Q)
+root@tanmay:~# ps -eo comm --no-headers \
+[building-the-future-of-autonomous-flight-drone-mission-control-system](https://www.youtube.com/watch?v=VJrQBGpvz5Q) \
 [presonaA-a-minimalistic-ai-chatbot](https://persona-steel.vercel.app/)
 
 
