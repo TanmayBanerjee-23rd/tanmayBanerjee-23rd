@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-You got logged at github@TanmayBanerjee-profile!
+You are logged in at github@TanmayBanerjee-profile!
 
 A seasoned software development engineer specializing in Web Development.
 
