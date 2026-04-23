@@ -5,7 +5,7 @@ You are logged in at github@TanmayBanerjee-profile!
 A seasoned software development engineer specializing in Web Development.
 
 root@tanmay:~# compgen -a | tr '\n' '|' \
-node | npm | pnpm | yarn | tsc | nest | create-react-app | next | mongosh | mysql | psql | cypher-shell | aws
+node | javac | java | gradle | npm | pnpm | yarn | tsc | nest | create-react-app | next | mongosh | mysql | psql | cypher-shell | aws
 
 root@tanmay:~# ps -eo comm --no-headers \
 [building-the-future-of-autonomous-flight-drone-mission-control-system](https://www.youtube.com/watch?v=VJrQBGpvz5Q) \
